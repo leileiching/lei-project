@@ -8,3 +8,9 @@ p{
     font-size: 16px;
     line-height: 1.5;
 }
+
+li{
+    color: palevioletred;
+    font-size: 14px;
+    line-height: 1.5;
+}
